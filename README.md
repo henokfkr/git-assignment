@@ -1,5 +1,5 @@
-Git & GitHub Assignment
-Description
+#Git & GitHub Assignment
+#Description
 
 This repository demonstrates basic Git and GitHub operations, including:
 
@@ -9,7 +9,7 @@ Remote synchronization (push/pull)
 
 Basic Git workflow (add => commit => push)
 
-Using Markdown to create a README
+#Using Markdown to create a README
 
 Files
 
